@@ -1,0 +1,9 @@
+**/build/
+
+.bak
+.rej
+.orig
+*~
+*.swp
+*.patch
+
